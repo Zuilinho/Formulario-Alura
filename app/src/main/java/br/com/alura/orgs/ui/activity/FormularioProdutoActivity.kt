@@ -26,7 +26,9 @@ class FormularioProdutoActivity : AppCompatActivity() {
             val bindingFormularioImagem = FormularioImagemBinding.inflate(layoutInflater)
             bindingFormularioImagem.formularioImagemBotaoCarregar.setOnClickListener {
                 url = bindingFormularioImagem.formularioImagemUrl.text.toString()
-                bindingFormularioImagem.formularioImagemImageview.load(url)
+                bindingFormularioImagem.formularioImagemImageview.load(url) {
+                    placeholder(R.drawable.placeholder)
+                }
             }
             AlertDialog.Builder(this)
                 .setView(bindingFormularioImagem.root)
