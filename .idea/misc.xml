@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/luizh/dev/Mobile/Native Android/Formulario-Alura/app/src/main/res/drawable-hdpi/plano_de_fundo_arredondado.xml" value="0.2105" />
+        <entry key="..\:/Users/luizh/dev/Mobile/Native Android/Formulario-Alura/app/src/main/res/drawable/placeholder.xml" value="0.1315" />
+        <entry key="..\:/Users/luizh/dev/Mobile/Native Android/Formulario-Alura/app/src/main/res/layout/activity_detalhes_produto.xml" value="0.3546195652173913" />
+        <entry key="..\:/Users/luizh/dev/Mobile/Native Android/android-com-kotlin-personalizando-ui-projeto-inicial/app/src/main/res/drawable/ic_action_add_24.xml" value="0.2105" />
+        <entry key="..\:/Users/luizh/dev/Mobile/Native Android/android-com-kotlin-personalizando-ui-projeto-inicial/app/src/main/res/font/montserrat_alternates_bold.xml" value="0.382051282051282" />
+        <entry key="..\:/Users/luizh/dev/Mobile/Native Android/android-com-kotlin-personalizando-ui-projeto-inicial/app/src/main/res/layout/activity_formulario_produto.xml" value="0.35280797101449274" />
+        <entry key="..\:/Users/luizh/dev/Mobile/Native Android/android-com-kotlin-personalizando-ui-projeto-inicial/app/src/main/res/layout/formulario_imagem.xml" value="0.25" />
+        <entry key="..\:/Users/luizh/dev/Mobile/Native Android/android-com-kotlin-personalizando-ui-projeto-inicial/app/src/main/res/layout/produto_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
